@@ -1,10 +1,9 @@
 {
   "name": "rust-result-enum-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A rust inspired result enum for better responses in TypeScript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "type": "module",
   "scripts": {
     "build": "tsc"
   },
